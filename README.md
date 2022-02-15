@@ -1,6 +1,9 @@
 # MonitoringRPAInfraUsingAWSConfig
 Monitoring RPA Infrastructure using AWS Connfig
 
+Link to Article
+https://www.linkedin.com/pulse/monitoring-your-rpa-infrastructure-using-aws-config-shashank-kumar/?trackingId=7%2FPOQWWvSXWsONUoR6N6Sw%3D%3D
+
 Notes:
 
 - Tag the EC2 Instances with Key as "RPA" and value as "RPA"
